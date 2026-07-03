@@ -1,2 +1,13 @@
-# Learning-Materials
-My personal learning hub for coding languages, tech stacks, and developer utilities.
+# 🧠 Мой учебный репозиторий
+
+Тут мои записи по различным материалам, в которых я хочу стать лучше!
+
+---
+
+## 📂 Структура репозитория
+
+| Раздел | Описание |
+|--------|----------|
+| [🌿 Git](./GIT/) | Основы Git, команды, рабочие процессы |
+
+---
